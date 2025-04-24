@@ -17,14 +17,14 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟤 Nível 0 – Pré-Básico: Primeiros Passos no Terminal
 
-- [ ] O que é terminal? O que é Bash?
-- [ ] Entendendo o shell e seu papel no sistema
-- [ ] Como usar o terminal puro (sem interface gráfica)
-- [ ] Como digitar comandos corretamente
-- [ ] Navegação básica: `pwd`, `cd`, `ls`
-- [ ] Como sair de comandos travados (`Ctrl + C`)
-- [ ] Usar seta ↑ para comandos anteriores
-- [ ] Autocompletar com `Tab`
+- [x] [O que é terminal? O que é Bash?](Nivel_00/nivel0_01_O_que_e_terminal_O_que_e_Bash.md)
+- [x] [Entendendo o shell e seu papel no sistema](Nivel_00/nivel0_02_Entendendo_o_shell_e_seu_papel_no_sistema.md)
+- [x] [Como usar o terminal puro (sem interface gráfica)](Nivel_00/nivel0_03_Como_usar_o_terminal_puro.md)
+- [x] [Como digitar comandos corretamente](Nivel_00/nivel0_04_Como_digitar_comandos_corretamente.md)
+- [x] [Navegação básica: `pwd`, `cd`, `ls`](Nivel_00/nivel0_05_Navegacao_basica_pwd_cd_ls.md)
+- [x] [Como sair de comandos travados (`Ctrl + C`)](Nivel_00/nivel0_06_Como_sair_de_comandos_travados.md)
+- [x] [Usar seta ↑ para comandos anteriores](Nivel_00/nivel0_07_Usar_seta_para_comandos_anteriores.md)
+- [x] [Autocompletar com `Tab`](Nivel_00/nivel0_08_Autocompletar_com_Tab.md)
 
 ---
 
