@@ -17,7 +17,7 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟤 Nível 0 – Pré-Básico: Primeiros Passos no Terminal
 
-- [x] [O que é terminal? O que é Bash?](Nivel_00/nivel0_01_O_que_e_terminal_O_que_e_Bash.md)
+- [x] [O que é terminal? O que é Bash?](Nivel_00/nivel0_01_O_que_e_terminal_O_que_e_Bash.md.md)
 - [x] [Entendendo o shell e seu papel no sistema](Nivel_00/nivel0_02_Entendendo_o_shell_e_seu_papel_no_sistema.md)
 - [x] [Como usar o terminal puro (sem interface gráfica)](Nivel_00/nivel0_03_Como_usar_o_terminal_puro.md)
 - [x] [Como digitar comandos corretamente](Nivel_00/nivel0_04_Como_digitar_comandos_corretamente.md)
@@ -30,7 +30,7 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟢 Nível 1 – Básico: Comandos Essenciais e Estrutura de Arquivos
 
-- [ ] Estrutura de diretórios do Linux (`/home`, `/etc`, `/var`, etc.)
+- [x] [Estrutura de diretórios do Linux (`/home`, `/etc`, `/var`, etc.)](Nivel_01\nivel1_01_Estrutura_de_diretorios_do_Linux.md)
 - [ ] Criação e manipulação de arquivos e pastas: `touch`, `mkdir`, `cp`, `mv`, `rm`
 - [ ] Permissões e propriedade de arquivos: `chmod`, `chown`, `ls -l`
 - [ ] Leitura de arquivos com `cat`, `less`, `head`, `tail`
