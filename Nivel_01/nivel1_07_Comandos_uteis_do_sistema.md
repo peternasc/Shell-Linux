@@ -3,7 +3,7 @@
 
 ---
 
-## 👤 1. `whoami` – Quem está logado?
+## 👤 1. [`whoami`](../Apendice/apendice_whoami.md) – Quem está logado?
 
 Exibe o **nome do usuário atual** (aquele que executa o comando).
 

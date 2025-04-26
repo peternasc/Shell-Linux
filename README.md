@@ -42,13 +42,15 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟡 Nível 2 – Bash Script Iniciante
 
-- [ ] Criar e executar scripts (`.sh`, `chmod +x`)
-- [ ] Variáveis simples (`nome="Peterson"`)
-- [ ] Exibir informações com `echo`
-- [ ] Leitura de entrada com `read`
-- [ ] Uso de parâmetros (`$1`, `$@`, `$#`)
-- [ ] Condições simples com `if`, `then`, `fi`
-- [ ] Comentários com `#`
+- [ ] [Introdução ao Shell Script](Nivel_02/nivel2_01_Introducao_ao_shell_script.md)
+- [ ] [Criar e executar scripts (`.sh`, `chmod +x`)](Nivel_02/nivel2_02_Criar_e_executar_scripts.md)
+- [ ] [Variáveis simples no Shell](Nivel_02/nivel2_03_Variaveis_simples_no_shell.md)
+- [ ] [Exibir informações com `echo`](Nivel_02/nivel2_04_Exibir_informacoes_com_echo.md)
+- [ ] [Leitura de entrada com `read`](Nivel_02/nivel2_05_Leitura_de_entrada_com_read.md)
+- [ ] [Uso de parâmetros (`$1`, `$@`, `$#`)](Nivel_02/nivel2_06_Uso_de_parametros.md)
+- [ ] [Condições simples com `if`, `then`, `fi`](Nivel_02/nivel2_07_Condicoes_simples_com_if_then_fi.md)
+- [ ] [Comentários com `#`](Nivel_02/nivel2_08_Comentarios_com_sharp.md)
+- [ ] [Boas práticas iniciais de script]()
 
 ---
 
