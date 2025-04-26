@@ -30,13 +30,13 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟢 Nível 1 – Básico: Comandos Essenciais e Estrutura de Arquivos
 
-- [x] [Estrutura de diretórios do Linux (`/home`, `/etc`, `/var`, etc.)](Nivel_01\nivel1_01_Estrutura_de_diretorios_do_Linux.md)
-- [ ] Criação e manipulação de arquivos e pastas: `touch`, `mkdir`, `cp`, `mv`, `rm`
-- [ ] Permissões e propriedade de arquivos: `chmod`, `chown`, `ls -l`
-- [ ] Leitura de arquivos com `cat`, `less`, `head`, `tail`
-- [ ] Redirecionamento de entrada e saída: `>`, `>>`, `<`
-- [ ] Encadeamento com pipes: `|`
-- [ ] Comandos úteis do sistema: `whoami`, `clear`, `history`, `file`
+- [x] [Estrutura de diretórios do Linux (`/home`, `/etc`, `/var`, etc.)](Nivel_01/nivel1_01_Estrutura_de_diretorios_do_Linux.md)
+- [x] [Criação e manipulação de arquivos e pastas: `touch`, `mkdir`, `cp`, `mv`, `rm`](Nivel_01/nivel1_02_Criacao_e_manipulacao_de_arquivos_e_pastas.md)
+- [x] [Permissões e propriedade de arquivos: `chmod`, `chown`, `ls -l`](Nivel_01/nivel1_03_Permissoes_e_propriedade_de_arquivos.md)
+- [x] [Leitura de arquivos com `cat`, `less`, `head`, `tail`](Nivel_01/nivel1_04_Leitura_de_arquivos_com_cat_less_head_tail.md)
+- [x] [Redirecionamento de entrada e saída: `>`, `>>`, `<`](Nivel_01/nivel1_05_Redirecionamento_de_entrada_e_saida.md)
+- [x] [Encadeamento com pipes: `|`](Nivel_01/nivel1_06_Encadeamento_com_pipes.md)
+- [x] [Comandos úteis do sistema: `whoami`, `clear`, `history`, `file`](Nivel_01/nivel1_07_Comandos_uteis_do_sistema.md)
 
 ---
 
