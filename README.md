@@ -56,12 +56,18 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🟠 Nível 3 – Bash Script Estruturado
 
-- [ ] Condicionais completas: `if/elif/else`
-- [ ] `case` para múltiplas opções
-- [ ] Laços: `for`, `while`, `until`
-- [ ] Controle de fluxo: `break`, `continue`
-- [ ] Menus com `select`
-- [ ] Códigos de retorno e uso de `$?`
+- [x] [Condicionais completas – `if`, `elif`, `else`](Nivel_03/nivel3_01_Condicionais_completas_if_elif_else.md)
+- [x] [`case` para Múltiplas Opções](Nivel_03/nivel3_02_Case_para_multiplas_opcoes.md)
+- [x] [Laços de Repetição — `for`, `while`, `until`](Nivel_03/nivel3_03_Lacos_for_while_until.md)
+- [x] [Controle de Fluxo — `break` e `continue`](NIvel_03/nivel3_04_Controle_de_fluxo_break_continue.md)
+- [x] [Menus com `select`](Nivel_03/nivel3_05_Menus_com_select.md)
+- [x] [Códigos de Retorno e Uso de `$?`](Nivel_03/nivel3_06_Codigos_de_retorno_e_uso_de_dolar_question.md)
+- [x] [Operações Aritméticas — `expr` e `$(( ))`](Nivel_03/nivel3_07_Operacoes_aritmeticas_expr_dollar_paren.md)
+- [x] [Leitura de Arquivos Linha a Linha com `while read`](Nivel_03/nivel3_08_Leitura_de_arquivos_com_while_read.md)
+- [x] [Testes de Arquivos — `-f`, `-d`, `-e` e outros](Nivel_03/nivel3_09_Testes_de_arquivos.md)
+- [x] [Funções no Bash](Nivel_03/nivel3_10_Funcoes_no_bash.md)
+- [x] [Parâmetros em Funções (`$1`, `$2`, `$@`, `$#`)](Nivel_03/nivel3_11_Parametros_em_funcoes.md)
+- [x] [Desafios do Nível 3](Nivel_03/nivel3_desafios.md)
 
 ---
 
