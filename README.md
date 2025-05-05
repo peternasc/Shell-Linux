@@ -73,12 +73,16 @@ O plano vai do nível **mais básico possível** até o **super hiper mega avan�
 
 ## 🔵 Nível 4 – Organização e Modularização de Scripts
 
-- [ ] Criação e uso de funções
-- [ ] Escopo: variáveis locais e globais
-- [ ] Reaproveitamento com `source`
-- [ ] Boas práticas e cabeçalhos de script
-- [ ] Estrutura modular de scripts grandes
-- [ ] Registro e logs simples em arquivos `.log`
+- [x] [Criação e Uso de Funções](Nivel_04/nivel4_01_Criacao_e_uso_de_funcoes.md)
+- [x] [Escopo — Variáveis Locais e Globais](Nivel_04/nivel4_02_Escopo_variaveis_locais_e_globais.md)
+- [x] [Reaproveitamento com `source`](Nivel_04/nivel4_03_Reaproveitamento_com_source.md)
+- [x] [Boas Práticas e Cabeçalhos de Script](Nivel_04/nivel4_04_Boas_praticas_e_cabecalhos_de_script.md)
+- [x] [Estrutura modular de scripts grandes](Nivel_04/nivel4_05_Estrutura_modular_de_scripts_grandes.md)
+- [x] [Funções Utilitárias e Reutilizáveis (Exemplos Práticos)](Nivel_04/nivel4_06_Funcoes_utilitarias_e_reutilizaveis.md)
+- [x] [Parâmetros e Opções em Funções](Nivel_04/nivel4_07_Parametros_e_opcoes_em_funcoes.md)
+- [x] [Tratamento de Erros em Funções](Nivel_04/nivel4_08_Tratamento_de_erros_em_funcoes.md)
+- [x] [Funções em Arquivos Separados](Nivel_04/nivel4_09_Funcoes_em_arquivos_separados_bibliotecas_de_funcoes.md)
+- [x] [Registro e Logs Simples em Arquivos `.log`](Nivel_04/nivel4_10_Registro_e_logs_simples_em_arquivos_log.md)
 
 ---
 
